@@ -4,4 +4,4 @@ def test_somar():
     assert somar(2, 2)["resultado"] == 4
 
 def test_multiplicar():
-    assert 2 * 2 == 5
+    assert 2 * 2 == 4
